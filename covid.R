@@ -1,3 +1,4 @@
+require(gifski)
 library(tidyverse)
 library(lubridate)
 library(readr)
